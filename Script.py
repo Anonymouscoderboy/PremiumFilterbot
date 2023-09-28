@@ -1,4 +1,4 @@
-tclass script(object):
+class script(object):
     START_TXT = """<b>Hᴇʏ {} ɪᴍ 『 ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ 』 ᴀɴ Aᴡᴇsᴏᴍᴇ Aᴜᴛᴏ + Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀ + Fɪʟᴇ Sʜᴀʀᴇ Bᴏᴛ.
 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
@@ -22,22 +22,22 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
     PONG_TXT = """Cʜᴇᴄᴋ Mʏ Pɪɴɢ Bʏ Cʟɪᴄᴋɪɴɢ 👉 /ping"""
 
     ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Fleximediabot>ᴍᴏᴠɪᴇs ғɪʟᴛᴇʀ ʙᴏᴛ</a>
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Decent_op>Decent-boy</a>
+👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/decent_op>Decent_boy</a>
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ғʀᴇᴇ ʜᴏsᴛɪɴɢ
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/CodeNexuscommunity>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/CodeNexus_community>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Decent_op
+    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @decent_op
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Decent_ope>Decent-boy</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/decent_op>Decent-boy</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
-    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Decent_op</b>
+    SOURCE_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Tamilan_BotsZ</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Decent_op>Decent-boy</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/decent_op>Decent-boy</a></b>
 
 - Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
@@ -73,7 +73,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
 <b>Aɴᴅ Bᴏᴛ Wɪʟʟ Sᴇɴᴅ Yᴏᴜ Asᴋᴇᴅ Fɪʟᴇ</b>
 
-<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/CodeNexuscommunity>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
+<b>Hᴏᴡ Tᴏ Oᴩᴇɴ Bᴏᴛ Sᴇɴᴅᴇᴅ Fɪʟᴇ Lɪɴᴋ. » <a href=https://t.me/CodeNexus_community>ᴛᴜᴛᴏʀɪᴀʟ</a>.﹤/b>"""
 
     CONTACT_TXT = """<b>
 <b>»» ° Oɴʟʏ Cᴏɴᴛᴀᴄᴛ Fᴏʀ Pᴀɪᴅ Wᴏʀᴋs / Pʀᴏʙʟᴇᴍ / Dᴏᴜʙᴛ / Cᴏʟʟᴀʙ / Hᴇʟᴩ °</b>
