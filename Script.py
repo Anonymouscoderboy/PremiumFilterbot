@@ -31,7 +31,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 
     SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @Decent_op
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Decent_ope>Decent boy</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Decent_ope>Decent-boy</a>
 
 - & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
 
